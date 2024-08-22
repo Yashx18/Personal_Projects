@@ -1,0 +1,54 @@
+.d-flex{
+    display: flex;
+}
+.align-item-center{
+    align-items: center;
+}
+.justify-content-center{
+    justify-content: center;
+}
+.justify-content-space-around{
+    justify-content: space-around;
+}
+.justify-content-space-between{
+    justify-content: space-between;
+}
+.justify-content-space-evenly{
+    justify-content: space-evenly;
+}
+.flex-direction-column{
+    flex-direction: column;
+}
+.pricing-switch{
+    width: 100%;
+    /* border: 1px solid black; */
+}
+.pricing-switch-buttons{
+    width: 40%;
+    /* text-align: center; */
+    /* border: 1px solid black; */
+}
+.switch-buttons{
+    text-decoration: none;
+    border-radius: 15px;
+    /* color: white; */
+    font-size: 12px;
+    border: 1px solid #6730e3;
+    
+}
+.monthly-button{
+    background-color: #6730e3;
+    border: 1px solid #6730e3;
+    color: white;
+    /* position: absolute; */
+    padding: 8px 45px 8px 25px;
+}
+.yearly-button{
+    color: #6730e3;
+    padding: 8px 25px 8px 25px;
+    /* border-top: 1px ;
+    border-left: 1px;
+    border-bottom: 1px;
+    border-right: 1px; */
+    /* border: 1px solid #6730e3; */
+}
